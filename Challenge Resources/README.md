@@ -1,2 +1,2 @@
-# Seismic-Analysis-Simulation
-This project is developed for the 2024 NASA Space App Challenge. The challenge is to take the seismic data measured from Mars and filter into meaningful data that can be transmitted back to Earth. We also developed a vibrating table to simulate the filtered data so we can see what the quakes would look like on Mars.
+- Details on the challenge through the following link: https://www.spaceappschallenge.org/nasa-space-apps-2024/challenges/seismic-detection-across-the-solar-system/?tab=resources
+- The data packet can be installed here (in case they removed the link above): https://drive.google.com/file/d/1QqK_acQatS29vBwzQ2qqx0H-rCPAT_qa/view?usp=sharing
